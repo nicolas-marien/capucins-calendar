@@ -1,0 +1,601 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nicolas-marien//capucins-calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Capucins – week-ends
+X-WR-CALDESC:Événements du week-end aux Ateliers des Capucins (Brest)
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:exposition-de-mobilier-surcycle-avec-la-reserve-des-materiaux@capucins-
+ calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261011
+SUMMARY:[Exposition] Exposition de mobilier Surcyclé avec La Réserve des 
+ Matériaux
+LOCATION:Les Insolites\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/exposition-de-mobil
+ ier-surcycle-avec-la-reserve-des-materiaux
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/exposition-
+ de-mobilier-surcycle-avec-la-reserve-des-materiaux
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-atelier-jaspage@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[Atelier - Workshop] Halloween / atelier jaspage
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/halloween-atelier-j
+ aspage
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/halloween-a
+ telier-jaspage
+END:VEVENT
+BEGIN:VEVENT
+UID:loup-garou-au-ludibar-3@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[Jeux] Loup-Garou au Ludibar
+LOCATION:Ludibar\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-au-ludib
+ ar-3
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-
+ au-ludibar-3
+END:VEVENT
+BEGIN:VEVENT
+UID:messagesimages-graphisme-dinteret-general-pepite-atelier-de-serigraphie
+ @capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[Atelier - Workshop] Messages/Images\, graphisme d'intérêt géné
+ ral / Pépite\, atelier de sérigraphie
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/messagesimages-grap
+ hisme-dinteret-general-pepite-atelier-de-serigraphie
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/messagesima
+ ges-graphisme-dinteret-general-pepite-atelier-de-serigraphie
+END:VEVENT
+BEGIN:VEVENT
+UID:un-tarif-unique-de-4-eu-pour-la-fete-de-la-science@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:[Visites & Découverte] Un tarif unique de 4 € pour la Fête de l
+ a Science
+LOCATION:70.8 - Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/un-tarif-unique-de-
+ 4-eu-pour-la-fete-de-la-science
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/un-tarif-un
+ ique-de-4-eu-pour-la-fete-de-la-science
+END:VEVENT
+BEGIN:VEVENT
+UID:village-des-sciences-de-brest-fete-de-la-science-2026@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:[Science] Village des sciences de Brest - Fête de la Science 2026
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/village-des-science
+ s-de-brest-fete-de-la-science-2026
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/village-des
+ -sciences-de-brest-fete-de-la-science-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:apres-midi-jeux-video-street-fighter@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[Jeux] Après-midi jeux vidéo : Street Fighter
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-jeux-vid
+ eo-street-fighter
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-
+ jeux-video-street-fighter
+END:VEVENT
+BEGIN:VEVENT
+UID:concerts-dark@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[Musique & danse] Concerts in the dark
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/concerts-dark
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/concerts-da
+ rk
+END:VEVENT
+BEGIN:VEVENT
+UID:conference-les-marins-du-ciel@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[Conférence] Conférence "Les Marins du Ciel"
+LOCATION:Auditorium\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/conference-les-mari
+ ns-du-ciel
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/conference-
+ les-marins-du-ciel
+END:VEVENT
+BEGIN:VEVENT
+UID:deuil-perinatal@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[Conférence] Deuil périnatal
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/deuil-perinatal
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/deuil-perin
+ atal
+END:VEVENT
+BEGIN:VEVENT
+UID:jadore-lire-lamour-au-premier-chapitre@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[Atelier - Workshop] J’Adore Lire : L’amour au premier chapitre
+LOCATION:Les Curiosités de Dialogues\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/jadore-lire-lamour-
+ au-premier-chapitre
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/jadore-lire
+ -lamour-au-premier-chapitre
+END:VEVENT
+BEGIN:VEVENT
+UID:lectures-musicales@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[Atelier - Workshop] Lectures musicales
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/lectures-musicales
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/lectures-mu
+ sicales
+END:VEVENT
+BEGIN:VEVENT
+UID:capucycle-xperience-2026@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[Sport] Capucycle Xperience 2026
+LOCATION:Esplanade de la Fraternité\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/capucycle-xperience
+ -2026
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/capucycle-x
+ perience-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-menopause@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[Salon] Festival Ménopause
+LOCATION:Les Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-menopause
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-me
+ nopause
+END:VEVENT
+BEGIN:VEVENT
+UID:initiation-au-jeu-de-role-halloween@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[Jeux] Initiation au jeu de rôle "Halloween"
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/initiation-au-jeu-d
+ e-role-halloween
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/initiation-
+ au-jeu-de-role-halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:lever-de-rideau-4e-edition@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[Visites & Découverte] Lever de rideau 4e édition
+LOCATION:Les Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/lever-de-rideau-4e-
+ edition
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/lever-de-ri
+ deau-4e-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:loup-garou-au-ludibar-4@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[Jeux] Loup-Garou au Ludibar
+LOCATION:Ludibar\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-au-ludib
+ ar-4
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-
+ au-ludibar-4
+END:VEVENT
+BEGIN:VEVENT
+UID:rencontre-avec-le-gruffalo-mascotte@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[Atelier - Workshop] Rencontre avec le Gruffalo - Mascotte
+LOCATION:Les Curiosités de Dialogues\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/rencontre-avec-le-g
+ ruffalo-mascotte
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/rencontre-a
+ vec-le-gruffalo-mascotte
+END:VEVENT
+BEGIN:VEVENT
+UID:deusta-2026@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:[Musique & danse] Deus'ta ! 2026
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/deusta-2026
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/deusta-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-remade-brest-1@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Atelier - Workshop] Festival Remade in Brest #1
+LOCATION:Les Insolites\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-remade-bre
+ st-1
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-re
+ made-brest-1
+END:VEVENT
+BEGIN:VEVENT
+UID:deusta-piece-de-theatre@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Arts & spectacle] Deus'ta ! / Pièce de théâtre
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/deusta-piece-de-the
+ atre
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/deusta-piec
+ e-de-theatre
+END:VEVENT
+BEGIN:VEVENT
+UID:exposition-gotlib-lumour-indelebile-visite-guidee-7@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Exposition] Exposition Gotlib\, l'umour indélébile ! / Visite gu
+ idée
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/exposition-gotlib-l
+ umour-indelebile-visite-guidee-7
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/exposition-
+ gotlib-lumour-indelebile-visite-guidee-7
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-rue-de-letrange@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Jeux] Halloween / Rue de l'étrange
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/halloween-rue-de-le
+ trange
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/halloween-r
+ ue-de-letrange
+END:VEVENT
+BEGIN:VEVENT
+UID:le-gouter-dhalloween-du-pathe-capucins@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Cinéma & photo] LE "GOÛTER" D’HALLOWEEN DU PATHÉ CAPUCINS ! 
+ 👻🎃
+LOCATION:Pathé Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/le-gouter-dhallowee
+ n-du-pathe-capucins
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/le-gouter-d
+ halloween-du-pathe-capucins
+END:VEVENT
+BEGIN:VEVENT
+UID:les-griffes-de-la-nuit@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Cinéma & photo] LES GRIFFES DE LA NUIT
+LOCATION:Pathé Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/les-griffes-de-la-n
+ uit
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-griffes
+ -de-la-nuit
+END:VEVENT
+BEGIN:VEVENT
+UID:atelier-infos-ou-intox-le-virus-des-fausses-informations-sur-notre-sant
+ e@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[Atelier - Workshop] Atelier infos ou intox / le virus des fausses 
+ informations sur notre santé
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/atelier-infos-ou-in
+ tox-le-virus-des-fausses-informations-sur-notre-sante
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/atelier-inf
+ os-ou-intox-le-virus-des-fausses-informations-sur-notre-sante
+END:VEVENT
+BEGIN:VEVENT
+UID:courts-metrages-brefs-mais-souvent-bons@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[Cinéma & photo] Courts métrages\, brefs mais souvent bons
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/courts-metrages-bre
+ fs-mais-souvent-bons
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/courts-metr
+ ages-brefs-mais-souvent-bons
+END:VEVENT
+BEGIN:VEVENT
+UID:exposition-gotlib-lumour-indelebile-visite-guidee-8@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[Exposition] Exposition Gotlib\, l'umour indélébile ! / Visite gu
+ idée
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/exposition-gotlib-l
+ umour-indelebile-visite-guidee-8
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/exposition-
+ gotlib-lumour-indelebile-visite-guidee-8
+END:VEVENT
+BEGIN:VEVENT
+UID:petites-oreilles-le-rendez-vous-des-3-mois-3-ans@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[Atelier - Workshop] Petites oreilles : Le rendez-vous des 3 mois -
+  3 ans
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/petites-oreilles-le
+ -rendez-vous-des-3-mois-3-ans
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/petites-ore
+ illes-le-rendez-vous-des-3-mois-3-ans
+END:VEVENT
+BEGIN:VEVENT
+UID:10-ans-des-capucins-atelier-dinitiation-au-mix-dj@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] 10 ans des Capucins / Atelier d'initiation au 
+ mix DJ
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-capucins
+ -atelier-dinitiation-au-mix-dj
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-
+ capucins-atelier-dinitiation-au-mix-dj
+END:VEVENT
+BEGIN:VEVENT
+UID:10-ans-des-capucins-sieste-musicale@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] 10 ans des Capucins / Sieste musicale
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-capucins
+ -sieste-musicale
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-
+ capucins-sieste-musicale
+END:VEVENT
+BEGIN:VEVENT
+UID:10-ans-des-capucins-sortie-photo@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] 10 ans des Capucins / Sortie photo
+LOCATION:Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-capucins
+ -sortie-photo
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-
+ capucins-sortie-photo
+END:VEVENT
+BEGIN:VEVENT
+UID:10-ans-ensemble@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:[Arts & spectacle] 10 ANS ENSEMBLE !
+LOCATION:Les Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-ensemble
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-ense
+ mble
+END:VEVENT
+BEGIN:VEVENT
+UID:ateliers-cosy-club-creation-dun-carnet-culturel@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] Ateliers Cosy club : création d'un carnet cul
+ turel
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/ateliers-cosy-club-
+ creation-dun-carnet-culturel
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/ateliers-co
+ sy-club-creation-dun-carnet-culturel
+END:VEVENT
+BEGIN:VEVENT
+UID:experimentation-sonore-de-la-mesnie-hellequin-par-la-compagnie-linstant
+ -dissonant@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Arts & spectacle] Expérimentation sonore de "La Mesnie Hellequin"
+  par la compagnie L'Instant Dissonant
+LOCATION:Le Fourneau\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/experimentation-son
+ ore-de-la-mesnie-hellequin-par-la-compagnie-linstant-dissonant
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/experimenta
+ tion-sonore-de-la-mesnie-hellequin-par-la-compagnie-linstant-dissonant
+END:VEVENT
+BEGIN:VEVENT
+UID:visite-libre-du-fourneau-0@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Visites & Découverte] Visite libre du Fourneau
+LOCATION:Le Fourneau\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/visite-libre-du-fou
+ rneau-0
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/visite-libr
+ e-du-fourneau-0
+END:VEVENT
+BEGIN:VEVENT
+UID:les-rendez-vous-des-4-7-ans-histoires-et-contes-en-langues-du-monde@cap
+ ucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:[Littérature & théâtre] Les rendez-vous des 4-7 ans / Histoires 
+ et contes en langues du monde
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-vous-des
+ -4-7-ans-histoires-et-contes-en-langues-du-monde
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-
+ vous-des-4-7-ans-histoires-et-contes-en-langues-du-monde
+END:VEVENT
+BEGIN:VEVENT
+UID:marche-du-monde-2026@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:[Visites & Découverte] Marché du Monde 2026
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/marche-du-monde-202
+ 6
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/marche-du-m
+ onde-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:raconter-chutes-inattendues@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:[Science] Raconter / Chutes inattendues
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/raconter-chutes-ina
+ ttendues
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/raconter-ch
+ utes-inattendues
+END:VEVENT
+BEGIN:VEVENT
+UID:raconter-passe-parole@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:[Science] Raconter / Passe parole
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/raconter-passe-paro
+ le
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/raconter-pa
+ sse-parole
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-du-livre-de-brest@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:[Salon] Festival du Livre de Brest
+LOCATION:Les Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-du-livre-d
+ e-brest
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-du
+ -livre-de-brest
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-du-livre-de-brest-0@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[Littérature & théâtre] Festival du livre de Brest
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-du-livre-d
+ e-brest-0
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-du
+ -livre-de-brest-0
+END:VEVENT
+BEGIN:VEVENT
+UID:club-de-lecture-raconter-le-reel@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[Atelier - Workshop] Club de lecture / Raconter le réel
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/club-de-lecture-rac
+ onter-le-reel
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/club-de-lec
+ ture-raconter-le-reel
+END:VEVENT
+BEGIN:VEVENT
+UID:les-rendez-vous-des-3-mois-3-ans-samedi-en-musique@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[Atelier - Workshop] Les rendez-vous des 3 mois-3 ans / Samedi en m
+ usique
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-vous-des
+ -3-mois-3-ans-samedi-en-musique
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-
+ vous-des-3-mois-3-ans-samedi-en-musique
+END:VEVENT
+BEGIN:VEVENT
+UID:trier-sans-culpabiliser-sagesse-japonaise-et-methode-marie-kondo@capuci
+ ns-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[Conférence] Trier sans culpabiliser : Sagesse japonaise et métho
+ de Marie Kondo
+LOCATION:Les Insolites\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/trier-sans-culpabil
+ iser-sagesse-japonaise-et-methode-marie-kondo
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/trier-sans-
+ culpabiliser-sagesse-japonaise-et-methode-marie-kondo
+END:VEVENT
+BEGIN:VEVENT
+UID:apres-midi-special-dune@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:[Jeux] Après-midi spécial "Dune"
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-special-
+ dune
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-
+ special-dune
+END:VEVENT
+BEGIN:VEVENT
+UID:cafe-tricot-la-mediatheque@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:[Atelier - Workshop] Café tricot à la médiathèque
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/cafe-tricot-la-medi
+ atheque
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/cafe-tricot
+ -la-mediatheque
+END:VEVENT
+BEGIN:VEVENT
+UID:les-rendez-vous-des-4-7-ans-histoires-bilingues-francaisbreton@capucins
+ -calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:[Atelier - Workshop] Les rendez-vous des 4-7 ans : Histoires biling
+ ues français/breton
+LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-vous-des
+ -4-7-ans-histoires-bilingues-francaisbreton
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-
+ vous-des-4-7-ans-histoires-bilingues-francaisbreton
+END:VEVENT
+END:VCALENDAR

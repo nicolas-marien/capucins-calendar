@@ -1,0 +1,33 @@
+name: Build calendar
+
+on:
+  schedule:
+    - cron: '0 4 * * 5' # vendredi ~6h à Paris
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - name: Commit si le calendrier a changé
+        run: |
+          if git diff --quiet -- docs/capucins.ics; then
+            echo "Pas de changement"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898283+github-actions[bot]@users.noreply.github.com'
+          git add docs/capucins.ics
+          git commit -m 'Update calendar'
+          git push
