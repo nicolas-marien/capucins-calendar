@@ -8,83 +8,6 @@ X-WR-CALDESC:Événements du week-end aux Ateliers des Capucins (Brest)
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:exposition-de-mobilier-surcycle-avec-la-reserve-des-materiaux@capucins-
- calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261011
-SUMMARY:[Exposition] Exposition de mobilier Surcyclé avec La Réserve des 
- Matériaux
-LOCATION:Les Insolites\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/exposition-de-mobil
- ier-surcycle-avec-la-reserve-des-materiaux
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/exposition-
- de-mobilier-surcycle-avec-la-reserve-des-materiaux
-END:VEVENT
-BEGIN:VEVENT
-UID:halloween-atelier-jaspage@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:[Atelier - Workshop] Halloween / atelier jaspage
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/halloween-atelier-j
- aspage
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/halloween-a
- telier-jaspage
-END:VEVENT
-BEGIN:VEVENT
-UID:loup-garou-au-ludibar-3@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:[Jeux] Loup-Garou au Ludibar
-LOCATION:Ludibar\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-au-ludib
- ar-3
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-
- au-ludibar-3
-END:VEVENT
-BEGIN:VEVENT
-UID:messagesimages-graphisme-dinteret-general-pepite-atelier-de-serigraphie
- @capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:[Atelier - Workshop] Messages/Images\, graphisme d'intérêt géné
- ral / Pépite\, atelier de sérigraphie
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/messagesimages-grap
- hisme-dinteret-general-pepite-atelier-de-serigraphie
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/messagesima
- ges-graphisme-dinteret-general-pepite-atelier-de-serigraphie
-END:VEVENT
-BEGIN:VEVENT
-UID:un-tarif-unique-de-4-eu-pour-la-fete-de-la-science@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261012
-SUMMARY:[Visites & Découverte] Un tarif unique de 4 € pour la Fête de l
- a Science
-LOCATION:70.8 - Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/un-tarif-unique-de-
- 4-eu-pour-la-fete-de-la-science
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/un-tarif-un
- ique-de-4-eu-pour-la-fete-de-la-science
-END:VEVENT
-BEGIN:VEVENT
-UID:village-des-sciences-de-brest-fete-de-la-science-2026@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261012
-SUMMARY:[Science] Village des sciences de Brest - Fête de la Science 2026
-LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/village-des-science
- s-de-brest-fete-de-la-science-2026
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/village-des
- -sciences-de-brest-fete-de-la-science-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:apres-midi-jeux-video-street-fighter@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261017
@@ -361,6 +284,18 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/petites-ore
  illes-le-rendez-vous-des-3-mois-3-ans
 END:VEVENT
 BEGIN:VEVENT
+UID:90-ans-du-front-populaire-bal-populaire@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[Arts & spectacle] 90 ans du Front Populaire - Bal populaire
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/90-ans-du-front-pop
+ ulaire-bal-populaire
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/90-ans-du-f
+ ront-populaire-bal-populaire
+END:VEVENT
+BEGIN:VEVENT
 UID:10-ans-des-capucins-atelier-dinitiation-au-mix-dj@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -434,6 +369,17 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/experimentation-son
  ore-de-la-mesnie-hellequin-par-la-compagnie-linstant-dissonant
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/experimenta
  tion-sonore-de-la-mesnie-hellequin-par-la-compagnie-linstant-dissonant
+END:VEVENT
+BEGIN:VEVENT
+UID:karaoke-au-ludibar@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Musique & danse] Karaoké au Ludibar
+LOCATION:Ludibar\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-ludibar
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-
+ ludibar
 END:VEVENT
 BEGIN:VEVENT
 UID:visite-libre-du-fourneau-0@capucins-calendar
