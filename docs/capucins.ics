@@ -8,98 +8,6 @@ X-WR-CALDESC:Événements du week-end aux Ateliers des Capucins (Brest)
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:apres-midi-jeux-video-street-fighter@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[Jeux] Après-midi jeux vidéo : Street Fighter
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-jeux-vid
- eo-street-fighter
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-
- jeux-video-street-fighter
-END:VEVENT
-BEGIN:VEVENT
-UID:concerts-dark@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[Musique & danse] Concerts in the dark
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/concerts-dark
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/concerts-da
- rk
-END:VEVENT
-BEGIN:VEVENT
-UID:conference-les-marins-du-ciel@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[Conférence] Conférence "Les Marins du Ciel"
-LOCATION:Auditorium\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/conference-les-mari
- ns-du-ciel
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/conference-
- les-marins-du-ciel
-END:VEVENT
-BEGIN:VEVENT
-UID:deuil-perinatal@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[Conférence] Deuil périnatal
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/deuil-perinatal
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/deuil-perin
- atal
-END:VEVENT
-BEGIN:VEVENT
-UID:jadore-lire-lamour-au-premier-chapitre@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[Atelier - Workshop] J’Adore Lire : L’amour au premier chapitre
-LOCATION:Les Curiosités de Dialogues\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/jadore-lire-lamour-
- au-premier-chapitre
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/jadore-lire
- -lamour-au-premier-chapitre
-END:VEVENT
-BEGIN:VEVENT
-UID:lectures-musicales@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:[Atelier - Workshop] Lectures musicales
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/lectures-musicales
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/lectures-mu
- sicales
-END:VEVENT
-BEGIN:VEVENT
-UID:capucycle-xperience-2026@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:[Sport] Capucycle Xperience 2026
-LOCATION:Esplanade de la Fraternité\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/capucycle-xperience
- -2026
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/capucycle-x
- perience-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:festival-menopause@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:[Salon] Festival Ménopause
-LOCATION:Les Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-menopause
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-me
- nopause
-END:VEVENT
-BEGIN:VEVENT
 UID:initiation-au-jeu-de-role-halloween@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261024
@@ -207,6 +115,17 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/halloween-r
  ue-de-letrange
 END:VEVENT
 BEGIN:VEVENT
+UID:karaoke-au-ludibar@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Musique & danse] Karaoké au Ludibar
+LOCATION:Ludibar\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-ludibar
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-
+ ludibar
+END:VEVENT
+BEGIN:VEVENT
 UID:le-gouter-dhalloween-du-pathe-capucins@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261031
@@ -271,6 +190,18 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/exposition-
  gotlib-lumour-indelebile-visite-guidee-8
 END:VEVENT
 BEGIN:VEVENT
+UID:faites-de-la-reparation@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[Salon] Faites de la réparation
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/faites-de-la-repara
+ tion
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/faites-de-l
+ a-reparation
+END:VEVENT
+BEGIN:VEVENT
 UID:petites-oreilles-le-rendez-vous-des-3-mois-3-ans@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -333,17 +264,6 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-
  capucins-sortie-photo
 END:VEVENT
 BEGIN:VEVENT
-UID:10-ans-ensemble@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-SUMMARY:[Arts & spectacle] 10 ANS ENSEMBLE !
-LOCATION:Les Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-ensemble
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-ense
- mble
-END:VEVENT
-BEGIN:VEVENT
 UID:ateliers-cosy-club-creation-dun-carnet-culturel@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -355,6 +275,30 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/ateliers-cosy-club-
  creation-dun-carnet-culturel
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/ateliers-co
  sy-club-creation-dun-carnet-culturel
+END:VEVENT
+BEGIN:VEVENT
+UID:concert-70s-soul-tribute@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Musique & danse] Concert - 70's soul tribute
+LOCATION:La Fabrik 1801\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/concert-70s-soul-tr
+ ibute
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/concert-70s
+ -soul-tribute
+END:VEVENT
+BEGIN:VEVENT
+UID:danse-escalade-avec-la-cie-retouramont@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] Danse Escalade avec la Cie Retouramont
+LOCATION:Climb Up\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/danse-escalade-avec
+ -la-cie-retouramont
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/danse-escal
+ ade-avec-la-cie-retouramont
 END:VEVENT
 BEGIN:VEVENT
 UID:experimentation-sonore-de-la-mesnie-hellequin-par-la-compagnie-linstant
@@ -371,15 +315,139 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/experimenta
  tion-sonore-de-la-mesnie-hellequin-par-la-compagnie-linstant-dissonant
 END:VEVENT
 BEGIN:VEVENT
-UID:karaoke-au-ludibar@capucins-calendar
+UID:fanfare-simili-cuivres@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Musique & danse] Fanfare Simili Cuivres
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/fanfare-simili-cuiv
+ res
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/fanfare-sim
+ ili-cuivres
+END:VEVENT
+BEGIN:VEVENT
+UID:fresque-en-briques-legor@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] Fresque en Briques LEGO®
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/fresque-en-briques-
+ legor
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/fresque-en-
+ briques-legor
+END:VEVENT
+BEGIN:VEVENT
+UID:hisse-emoi-cie-retouramont@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] Hisse Émoi - Cie Retouramont
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/hisse-emoi-cie-reto
+ uramont
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/hisse-emoi-
+ cie-retouramont
+END:VEVENT
+BEGIN:VEVENT
+UID:initiation-au-longboard@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Sport] Initiation au Longboard
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/initiation-au-longb
+ oard
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/initiation-
+ au-longboard
+END:VEVENT
+BEGIN:VEVENT
+UID:karaoke-au-ludibar-0@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:[Musique & danse] Karaoké au Ludibar
 LOCATION:Ludibar\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-ludibar
+URL:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-ludibar-
+ 0
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-
- ludibar
+ ludibar-0
+END:VEVENT
+BEGIN:VEVENT
+UID:le-gateau-des-10-ans@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Gastronomie] Le Gâteau des 10 ans !
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/le-gateau-des-10-an
+ s
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/le-gateau-d
+ es-10-ans
+END:VEVENT
+BEGIN:VEVENT
+UID:le-musee-708-fete-les-10-ans-des-ateliers-des-capucins@capucins-calenda
+ r
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:[Visites & Découverte] Le musée 70.8 fête les 10 ans des Atelier
+ s des Capucins !
+LOCATION:70.8 - Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/le-musee-708-fete-l
+ es-10-ans-des-ateliers-des-capucins
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/le-musee-70
+ 8-fete-les-10-ans-des-ateliers-des-capucins
+END:VEVENT
+BEGIN:VEVENT
+UID:lectures-pour-enfants@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Littérature & théâtre] Lectures pour enfants
+LOCATION:Les Curiosités de Dialogues\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/lectures-pour-enfan
+ ts
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/lectures-po
+ ur-enfants
+END:VEVENT
+BEGIN:VEVENT
+UID:les-visites-decalees-0@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:[Visites & Découverte] Les Visites Décalées
+LOCATION:Les Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/les-visites-decalee
+ s-0
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-visites
+ -decalees-0
+END:VEVENT
+BEGIN:VEVENT
+UID:spectacle-courants-ascensionnels-cie-retouramont@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Arts & spectacle] Spectacle "Courants Ascensionnels" - Cie Retoura
+ mont
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/spectacle-courants-
+ ascensionnels-cie-retouramont
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/spectacle-c
+ ourants-ascensionnels-cie-retouramont
+END:VEVENT
+BEGIN:VEVENT
+UID:totem-cie-retouramont@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Arts & spectacle] Totem - Cie Retouramont
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/totem-cie-retouramo
+ nt
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/totem-cie-r
+ etouramont
 END:VEVENT
 BEGIN:VEVENT
 UID:visite-libre-du-fourneau-0@capucins-calendar
@@ -392,6 +460,28 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/visite-libre-du-fou
  rneau-0
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/visite-libr
  e-du-fourneau-0
+END:VEVENT
+BEGIN:VEVENT
+UID:week-end-des-10-ans@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Week-end des 10 ans !
+LOCATION:Les Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/week-end-des-10-ans
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/week-end-de
+ s-10-ans
+END:VEVENT
+BEGIN:VEVENT
+UID:brunch-anniversaire@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:[Gastronomie] Brunch Anniversaire
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/brunch-anniversaire
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/brunch-anni
+ versaire
 END:VEVENT
 BEGIN:VEVENT
 UID:les-rendez-vous-des-4-7-ans-histoires-et-contes-en-langues-du-monde@cap
