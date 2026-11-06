@@ -18,91 +18,6 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/deusta-2026
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/deusta-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:festival-remade-brest-1@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Atelier - Workshop] Festival Remade in Brest #1
-LOCATION:Les Insolites\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-remade-bre
- st-1
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-re
- made-brest-1
-END:VEVENT
-BEGIN:VEVENT
-UID:deusta-piece-de-theatre@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Arts & spectacle] Deus'ta ! / Pièce de théâtre
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/deusta-piece-de-the
- atre
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/deusta-piec
- e-de-theatre
-END:VEVENT
-BEGIN:VEVENT
-UID:exposition-gotlib-lumour-indelebile-visite-guidee-7@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Exposition] Exposition Gotlib\, l'umour indélébile ! / Visite gu
- idée
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/exposition-gotlib-l
- umour-indelebile-visite-guidee-7
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/exposition-
- gotlib-lumour-indelebile-visite-guidee-7
-END:VEVENT
-BEGIN:VEVENT
-UID:halloween-rue-de-letrange@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Jeux] Halloween / Rue de l'étrange
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/halloween-rue-de-le
- trange
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/halloween-r
- ue-de-letrange
-END:VEVENT
-BEGIN:VEVENT
-UID:karaoke-au-ludibar@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Musique & danse] Karaoké au Ludibar
-LOCATION:Ludibar\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-ludibar
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-
- ludibar
-END:VEVENT
-BEGIN:VEVENT
-UID:le-gouter-dhalloween-du-pathe-capucins@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Cinéma & photo] LE "GOÛTER" D’HALLOWEEN DU PATHÉ CAPUCINS ! 
- 👻🎃
-LOCATION:Pathé Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/le-gouter-dhallowee
- n-du-pathe-capucins
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/le-gouter-d
- halloween-du-pathe-capucins
-END:VEVENT
-BEGIN:VEVENT
-UID:les-griffes-de-la-nuit@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:[Cinéma & photo] LES GRIFFES DE LA NUIT
-LOCATION:Pathé Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/les-griffes-de-la-n
- uit
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-griffes
- -de-la-nuit
-END:VEVENT
-BEGIN:VEVENT
 UID:atelier-infos-ou-intox-le-virus-des-fausses-informations-sur-notre-sant
  e@capucins-calendar
 DTSTAMP:20260101T000000Z
@@ -152,6 +67,18 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/faites-de-la-repara
  tion
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/faites-de-l
  a-reparation
+END:VEVENT
+BEGIN:VEVENT
+UID:loup-garou-au-ludibar-2@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[Jeux] Loup-Garou au Ludibar
+LOCATION:Ludibar\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-au-ludib
+ ar-2
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/loup-garou-
+ au-ludibar-2
 END:VEVENT
 BEGIN:VEVENT
 UID:petites-oreilles-le-rendez-vous-des-3-mois-3-ans@capucins-calendar
@@ -214,6 +141,30 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-capucins
  -sortie-photo
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-
  capucins-sortie-photo
+END:VEVENT
+BEGIN:VEVENT
+UID:10-ans-des-capucins-voyage-en-antarctique@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Visites & Découverte] 10 ans des Capucins / Voyage en Antarctique
+LOCATION:Virtual Room\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-capucins
+ -voyage-en-antarctique
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/10-ans-des-
+ capucins-voyage-en-antarctique
+END:VEVENT
+BEGIN:VEVENT
+UID:atelier-creation-de-badges-serigraphie@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Atelier - Workshop] Atelier création de badges & sérigraphie
+LOCATION:Place des Machines\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/atelier-creation-de
+ -badges-serigraphie
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/atelier-cre
+ ation-de-badges-serigraphie
 END:VEVENT
 BEGIN:VEVENT
 UID:ateliers-cosy-club-creation-dun-carnet-culturel@capucins-calendar
@@ -339,6 +290,17 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/initiation-
  au-longboard
 END:VEVENT
 BEGIN:VEVENT
+UID:karaoke-au-ludibar@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Musique & danse] Karaoké au Ludibar
+LOCATION:Ludibar\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-ludibar
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/karaoke-au-
+ ludibar
+END:VEVENT
+BEGIN:VEVENT
 UID:karaoke-au-ludibar-0@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -451,16 +413,39 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/totem-cie-r
  etouramont
 END:VEVENT
 BEGIN:VEVENT
-UID:visite-libre-du-fourneau-0@capucins-calendar
+UID:ttmc-en-balade-pour-les-10-ans-des-capucins@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:[Visites & Découverte] Visite libre du Fourneau
+SUMMARY:[Jeux] TTMC en balade pour les 10 ans des Capucins
+LOCATION:Passage des Arpètes\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/ttmc-en-balade-pour
+ -les-10-ans-des-capucins
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/ttmc-en-bal
+ ade-pour-les-10-ans-des-capucins
+END:VEVENT
+BEGIN:VEVENT
+UID:ttmc-en-ballade-pour-les-10-ans-des-capucins@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Jeux] TTMC en ballade pour les 10 ans des Capucins
+LOCATION:Passage des Arpètes\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/ttmc-en-ballade-pou
+ r-les-10-ans-des-capucins
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/ttmc-en-bal
+ lade-pour-les-10-ans-des-capucins
+END:VEVENT
+BEGIN:VEVENT
+UID:visite-du-fourneau@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Visites & Découverte] Visite du Fourneau
 LOCATION:Le Fourneau\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/visite-libre-du-fou
- rneau-0
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/visite-libr
- e-du-fourneau-0
+URL:https://www.ateliersdescapucins.fr/fr/programmation/visite-du-fourneau
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/visite-du-f
+ ourneau
 END:VEVENT
 BEGIN:VEVENT
 UID:visites-historiques-avec-gerard-cabon@capucins-calendar
@@ -553,6 +538,18 @@ LOCATION:Passage des Arpètes\, Ateliers des Capucins\, Brest
 URL:https://www.ateliersdescapucins.fr/fr/programmation/le-yoga-des-10-ans
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/le-yoga-des
  -10-ans
+END:VEVENT
+BEGIN:VEVENT
+UID:loups-garous-en-balade-pour-les-10-ans-des-capucins@capucins-calendar
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:[Jeux] Loups-Garous en balade pour les 10 ans des Capucins
+LOCATION:Passage des Arpètes\, Ateliers des Capucins\, Brest
+URL:https://www.ateliersdescapucins.fr/fr/programmation/loups-garous-en-bal
+ ade-pour-les-10-ans-des-capucins
+DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/loups-garou
+ s-en-balade-pour-les-10-ans-des-capucins
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-de-createurices-seigneur-des-anneaux@capucins-calendar
