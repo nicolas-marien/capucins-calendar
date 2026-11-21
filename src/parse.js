@@ -46,3 +46,8 @@ export function htmlFromAjax(commands) {
   if (results.length === 0) throw new Error('Réponse AJAX sans liste de résultats');
   return results.map((c) => c.data).join('');
 }
+
+// Texte de la description d'une page d'événement (sans la liste des événements liés).
+export function parseDescription(html) {
+  return clean(cheerio.load(html)('.EventFestival-top .content-desc').text());
+}

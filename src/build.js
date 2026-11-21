@@ -1,7 +1,8 @@
 import { writeFileSync } from 'node:fs';
 import { setTimeout as sleep } from 'node:timers/promises';
-import { getMonths, fetchMonth } from './site.js';
-import { parseTeasers } from './parse.js';
+import { getMonths, fetchMonth, fetchPage } from './site.js';
+import { parseTeasers, parseDescription } from './parse.js';
+import { filterMachines } from './machines.js';
 import { currentMonth, selectEvents } from './weekend.js';
 import { toIcs } from './ics.js';
 
@@ -21,8 +22,13 @@ async function main() {
     teasers.push(...found);
   }
 
-  const events = selectEvents(teasers, month);
-  if (events.length === 0) throw new Error('0 événement de week-end trouvé');
+  const weekend = selectEvents(teasers, month);
+  if (weekend.length === 0) throw new Error('0 événement de week-end trouvé');
+  // Un week-end sans rien sur la Place des Machines est normal : pas d'échec ici.
+  const events = await filterMachines(weekend, async (url) => {
+    await sleep(500);
+    return parseDescription(await fetchPage(url));
+  });
   writeFileSync(OUTPUT, toIcs(events));
   console.log(`${events.length} événements écrits dans docs/capucins.ics`);
 }

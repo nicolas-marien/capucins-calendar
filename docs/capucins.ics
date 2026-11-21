@@ -3,24 +3,11 @@ VERSION:2.0
 PRODID:-//nicolas-marien//capucins-calendar//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Capucins – week-ends
-X-WR-CALDESC:Événements du week-end aux Ateliers des Capucins (Brest)
+X-WR-CALNAME:Capucins – Place des Machines
+X-WR-CALDESC:Événements du week-end sur la Place des Machines\, Ateliers 
+ des Capucins (Brest)
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
-BEGIN:VEVENT
-UID:les-rendez-vous-des-4-7-ans-histoires-et-contes-en-langues-du-monde@cap
- ucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:[Littérature & théâtre] Les rendez-vous des 4-7 ans / Histoires 
- et contes en langues du monde
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-vous-des
- -4-7-ans-histoires-et-contes-en-langues-du-monde
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-
- vous-des-4-7-ans-histoires-et-contes-en-langues-du-monde
-END:VEVENT
 BEGIN:VEVENT
 UID:marche-du-monde-2026@capucins-calendar
 DTSTAMP:20260101T000000Z
@@ -34,30 +21,6 @@ DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/marche-du-m
  onde-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:raconter-chutes-inattendues@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:[Science] Raconter / Chutes inattendues
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/raconter-chutes-ina
- ttendues
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/raconter-ch
- utes-inattendues
-END:VEVENT
-BEGIN:VEVENT
-UID:raconter-passe-parole@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:[Science] Raconter / Passe parole
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/raconter-passe-paro
- le
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/raconter-pa
- sse-parole
-END:VEVENT
-BEGIN:VEVENT
 UID:festival-du-livre-de-brest@capucins-calendar
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261128
@@ -68,105 +31,5 @@ URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-du-livre-d
  e-brest
 DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-du
  -livre-de-brest
-END:VEVENT
-BEGIN:VEVENT
-UID:festival-du-livre-de-brest-0@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:[Salon] Festival du livre de Brest
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/festival-du-livre-d
- e-brest-0
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/festival-du
- -livre-de-brest-0
-END:VEVENT
-BEGIN:VEVENT
-UID:club-de-lecture-raconter-le-reel@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[Atelier - Workshop] Club de lecture / Raconter le réel
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/club-de-lecture-rac
- onter-le-reel
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/club-de-lec
- ture-raconter-le-reel
-END:VEVENT
-BEGIN:VEVENT
-UID:concerts-dark@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[Musique & danse] Concerts in the dark
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/concerts-dark
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/concerts-da
- rk
-END:VEVENT
-BEGIN:VEVENT
-UID:les-rendez-vous-des-3-mois-3-ans-samedi-en-musique@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[Atelier - Workshop] Les rendez-vous des 3 mois-3 ans / Samedi en m
- usique
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-vous-des
- -3-mois-3-ans-samedi-en-musique
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-
- vous-des-3-mois-3-ans-samedi-en-musique
-END:VEVENT
-BEGIN:VEVENT
-UID:trier-sans-culpabiliser-sagesse-japonaise-et-methode-marie-kondo@capuci
- ns-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:[Conférence] Trier sans culpabiliser : Sagesse japonaise et métho
- de Marie Kondo
-LOCATION:Les Insolites\, Ateliers des Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/trier-sans-culpabil
- iser-sagesse-japonaise-et-methode-marie-kondo
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/trier-sans-
- culpabiliser-sagesse-japonaise-et-methode-marie-kondo
-END:VEVENT
-BEGIN:VEVENT
-UID:apres-midi-special-dune@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:[Jeux] Après-midi spécial "Dune"
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-special-
- dune
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/apres-midi-
- special-dune
-END:VEVENT
-BEGIN:VEVENT
-UID:cafe-tricot-la-mediatheque@capucins-calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:[Atelier - Workshop] Café tricot à la médiathèque
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/cafe-tricot-la-medi
- atheque
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/cafe-tricot
- -la-mediatheque
-END:VEVENT
-BEGIN:VEVENT
-UID:les-rendez-vous-des-4-7-ans-histoires-bilingues-francaisbreton@capucins
- -calendar
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:[Atelier - Workshop] Les rendez-vous des 4-7 ans : Histoires biling
- ues français/breton
-LOCATION:Médiathèque François Mitterrand - Les Capucins\, Brest
-URL:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-vous-des
- -4-7-ans-histoires-bilingues-francaisbreton
-DESCRIPTION:https://www.ateliersdescapucins.fr/fr/programmation/les-rendez-
- vous-des-4-7-ans-histoires-bilingues-francaisbreton
 END:VEVENT
 END:VCALENDAR

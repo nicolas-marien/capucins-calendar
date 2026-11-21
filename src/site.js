@@ -35,3 +35,7 @@ export async function fetchMonth(month, formBuildId) {
   });
   return htmlFromAjax(await res.json());
 }
+
+export async function fetchPage(url) {
+  return (await request(url)).text();
+}
